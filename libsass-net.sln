@@ -18,8 +18,8 @@ Global
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{3A1CF114-A5C0-4BA2-8C0D-47001E361718}.Debug|Any CPU.ActiveCfg = Debug|Win32
-		{3A1CF114-A5C0-4BA2-8C0D-47001E361718}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
-		{3A1CF114-A5C0-4BA2-8C0D-47001E361718}.Debug|Mixed Platforms.Build.0 = Debug|Win32
+		{3A1CF114-A5C0-4BA2-8C0D-47001E361718}.Debug|Mixed Platforms.ActiveCfg = Debug|x64
+		{3A1CF114-A5C0-4BA2-8C0D-47001E361718}.Debug|Mixed Platforms.Build.0 = Debug|x64
 		{3A1CF114-A5C0-4BA2-8C0D-47001E361718}.Debug|Win32.ActiveCfg = Debug|Win32
 		{3A1CF114-A5C0-4BA2-8C0D-47001E361718}.Debug|Win32.Build.0 = Debug|Win32
 		{3A1CF114-A5C0-4BA2-8C0D-47001E361718}.Debug|x64.ActiveCfg = Debug|x64
